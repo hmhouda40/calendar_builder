@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
